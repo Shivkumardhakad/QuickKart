@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52aa6303-0f3f-4e5b-988e-bde9c124fa6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/ComApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/confige/SpringSecurity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/controller/PublicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/java/ecommerce/com/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/src/test/java/ecommerce/com/ComApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
