@@ -1,0 +1,12 @@
+# Spring Boot
+src/main/resources/application.properties
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Build folder
+target/
