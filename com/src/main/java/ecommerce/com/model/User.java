@@ -6,6 +6,8 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.web.bind.annotation.GetMapping;
 
+import java.util.List;
+
 
 @Document(collection = "user")
 @Getter
@@ -16,5 +18,5 @@ public class User {
     private String name;
     private String email;
     private String password;
-    private String role;
+    private List<String> role;
 }
